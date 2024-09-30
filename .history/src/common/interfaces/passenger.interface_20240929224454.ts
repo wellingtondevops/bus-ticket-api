@@ -1,0 +1,1 @@
+export interface IPassenger extends Document{}

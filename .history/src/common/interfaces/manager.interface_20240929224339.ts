@@ -1,0 +1,1 @@
+export interface IManager extends Document{}
